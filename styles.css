@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+
+}
+h1{
+    color: indigo;
+}
+.friend{
+    background-color: hsla(271, 76%, 53%, 0.161);
+}
+.friend > h3{
+    text-transform: uppercase;
+}
