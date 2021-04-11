@@ -45,8 +45,9 @@ someOtherElement.appendChild(anotherElement);
 8. crear el pull request
 9. remover la rama (localmente si es necesario?)Aparentemente se debe subir una sola vez cada rama, actualizarla pero parar despues del pull request.
    git branch -d my-feature
+10. olvidaba algo
 
-   Una modificacion.
-   Otra modificacion mas.
+Una modificacion.
+Otra modificacion mas.
 
 agregue algo mas
