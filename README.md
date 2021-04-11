@@ -35,5 +35,10 @@ someOtherElement.appendChild(anotherElement);
    git add .
    git commit -m "mensaje"
 4. Pararse en la rama madre (main o release) y hacer el pull nuevamente
+   git pull
+5. Cambiar a la rama del feature y hacer un merge
+   git checkout my-feature
+
+
    Una modificacion.
    Otra modificacion mas.
