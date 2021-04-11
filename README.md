@@ -39,10 +39,15 @@ someOtherElement.appendChild(anotherElement);
 5. Cambiar a la rama del feature y hacer un merge
    git checkout my-feature
    git merge main
-6. resolver conflictos si hubieran
+6. resolver conflictos si hubieran (https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
+7. subir la rama
+   git push --set-upstream origin my-feature
+8. crear el pull request
+9. remover la rama (localmente si es necesario?)Aparentemente se debe subir una sola vez cada rama, actualizarla pero parar despues del pull request.
+   git branch -d my-feature
+10. olvidaba algo
 
-
-   Una modificacion.
-   Otra modificacion mas.
+Una modificacion.
+Otra modificacion mas.
 
 agregue algo mas
