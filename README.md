@@ -25,5 +25,15 @@ Remember that elements can be added to other elements
 document.body.appendChild(someElement);
 someOtherElement.appendChild(anotherElement);
 
-Una modificacion.
-Otra modificacion mas.
+## Git sequence
+
+1. Hacer pull de la master para revisar que este todo al dia
+   git pull (en main)
+2. Crear branch y desarrolar codigo
+   git checkout -b my-feature
+3. Comitear cambios
+   git add .
+   git commit -m "mensaje"
+4. Pararse en la rama madre (main o release) y hacer el pull nuevamente
+   Una modificacion.
+   Otra modificacion mas.

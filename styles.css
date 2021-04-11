@@ -1,15 +1,19 @@
-body{
-    background-color: aliceblue;
-    text-align: center;
+body {
+  background-color: aliceblue;
+  text-align: center;
 }
-h1{
-    color: indigo;
+h1 {
+  color: indigo;
 }
-.friend{
-    background-color: hsla(271, 76%, 53%, 0.161);
-    width: 90vw;
-    margin: 2rem auto;
+.friend {
+  background-color: hsla(271, 76%, 53%, 0.161);
+  width: 90vw;
+  margin: 2rem auto;
 }
-.friend > h3{
-    text-transform: uppercase;
+.friend > h3 {
+  text-transform: uppercase;
+}
+
+button {
+  padding: 0.5rem;
 }
