@@ -38,6 +38,8 @@ someOtherElement.appendChild(anotherElement);
    git pull
 5. Cambiar a la rama del feature y hacer un merge
    git checkout my-feature
+   git merge main
+6. resolver conflictos si hubieran
 
 
    Una modificacion.
