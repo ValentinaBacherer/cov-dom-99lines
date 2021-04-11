@@ -35,3 +35,5 @@ someOtherElement.appendChild(anotherElement);
    git add .
    git commit -m "mensaje"
 4. Pararse en la rama madre (main o release) y hacer el pull nuevamente
+   Una modificacion.
+   Otra modificacion mas.
